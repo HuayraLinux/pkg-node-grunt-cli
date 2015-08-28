@@ -1,0 +1,15 @@
+Source: grunt-cli
+Section: web
+Priority: extra
+Maintainer: Mauro <mauro@sdf.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://gruntjs.com/
+
+Package: node-grunt-cli
+Architecture: all
+Depends: ${misc:Depends}, nodejs (>= 0.8.0), node-common-modules (>= 0.1)
+Description: JavaScript task runner/build system/maintainer tool
+ GRUNT automates several tasks related to maintaining a JavaScript library
+ or framework. It can be used for JS code minification, unit testing, code
+ checking, and several other tasks.

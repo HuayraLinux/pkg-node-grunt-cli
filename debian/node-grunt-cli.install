@@ -1,0 +1,5 @@
+lib/           usr/lib/nodejs/grunt-cli/
+bin/           usr/lib/nodejs/grunt-cli/
+completion/    usr/lib/nodejs/grunt-cli/
+package.json   usr/lib/nodejs/grunt-cli/
+Gruntfile.js   usr/lib/nodejs/grunt-cli/
